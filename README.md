@@ -1,6 +1,6 @@
 # Hello there, I'm Han 👋
 
-I'm an Engineering Science student at the University of Toronto. I am currently exploring knowledge of AI and quantum computing, but my current goal is to learn as much as possible so that I can choose my future career path.
+I'm an Engineering Science student at the University of Toronto. I am currently exploring knowledge of AI and quantum computing, but my current overall goal is to learn as much as possible so that I can choose my future career path.
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
