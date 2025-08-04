@@ -2,7 +2,7 @@
 
 I'm an Engineering Science student at the University of Toronto.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/han-yu-fang)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-yu-fang)
 
 <!--
 **hanDynasty0/hanDynasty0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
