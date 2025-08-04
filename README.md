@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hello there, I'm Han 👋
 
+I'm an Engineering Science student at the University of Toronto.
 <!--
 **hanDynasty0/hanDynasty0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
